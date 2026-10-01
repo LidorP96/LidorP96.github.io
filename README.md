@@ -1,2 +1,10 @@
-# My IT protofolio
-Hello,<br>here I'll share and demonstrate different projects about domains like: **Cybersecurity**; **Virtualization**; **Cloud Computing**; **Networking**.
+# Welcome to my personal portfolio website.
+
+## Who I am
+A passionate developer building innovative digital solutions, specializing in creating accessible and scalable web applications that empower users to achieve their goals.
+
+### What Im passionate about?
+- Video Games
+- Rap Music
+- Offensive Security
+- CTF Challenges
